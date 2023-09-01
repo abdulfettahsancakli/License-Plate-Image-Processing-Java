@@ -16,8 +16,7 @@ Yaptığımız işlemler sonrasında 1,2,3,4 ve 5 tablerini tamamladık fakat 6.
 Teşekkür ederiz.
 Sağlıcakla kalın.
 -------------------------------------------------------------------------------------------------------------------------------
-Hello, hodja,
-
+Hello,
 We worked as a group on this assignment.
 B1705.010052 MERYEM BAYRAM
 B1705.010027 ABDULFETTAH SANCAKLI
