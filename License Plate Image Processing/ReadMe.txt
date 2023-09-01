@@ -15,3 +15,22 @@ Yaptığımız işlemler sonrasında 1,2,3,4 ve 5 tablerini tamamladık fakat 6.
 
 Teşekkür ederiz.
 Sağlıcakla kalın.
+-------------------------------------------------------------------------------------------------------------------------------
+Hello, hodja,
+
+We worked as a group on this assignment.
+B1705.010052 MERYEM BAYRAM
+B1705.010027 ABDULFETTAH SANCAKLI
+
+First of all, we created a class that converts the jpeg file you gave us to txt format, 
+This allowed us to use our methods more functionally by accessing the pixel values of the image.
+To convert it to grayscale format, we modified the r g b values and got grayish output 
+By setting a threshold value in binary format, we have converted our image to black and white.
+When creating the vertical and horizontal histograms, we go through our image row by row and column by column, pixel by pixel. 
+values to the array and plotted it with the drawline method.
+
+After the operations we did, we completed tabs 1,2,3,4 and 5, but we tried for tab 6 but we could not get any results.
+
+Thank you very much.
+Stay in good health.
+
